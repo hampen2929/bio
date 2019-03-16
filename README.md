@@ -11,3 +11,12 @@
 興味：強化学習
 
 HP：http://hampen2929.com
+
+## Myself
+Name：Hampen([@hampen2929](https://twitter.com/hampen2929))
+
+Job：Data analysis
+
+Belonging：IT consulting company
+
+Interest：Reinforcement learning
