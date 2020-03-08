@@ -18,48 +18,21 @@
 
 - [姿勢推定とLightGBMを用いたテニススイング認識](https://speakerdeck.com/hampen2929/tennis-swing-recognition-based-on-pose-estimation-and-lightgbm)
 
-Data Gateway Talk vol.3
+- [フォームの類似度](https://speakerdeck.com/hampen2929/feature-vector-calculation-of-tennis-swing-using-gaussian-process-regression-and-dissimilarity-calculation-by-dtw-distance)
 
-- 2019年11月2日
+- [スポーツ格差解消を目的としたテニス上達のためのAIコーチングアプリケーションの考案](https://speakerdeck.com/hampen2929/ai-coaching-application)
 
-フォームの類似度
+- [AIの進歩とテニスの未来]
 
-Sports Analyst Meetup #5
+- [機械学習×テニス](https://speakerdeck.com/hampen2929/machine-learning-x-tennis)
 
-- 2019年11月14日
+- [テニスのフォーム類似度算出〜私のフォアハンドはどの選手と似てる？〜]
 
-スポーツ格差解消を目的としたテニス上達のためのAIコーチングアプリケーションの考案
+- [pyvino~Python implementation of OpenVINO~](https://speakerdeck.com/hampen2929/pyvino-python-implementation-of-openvino)
 
-TOBITATech Meetup Sport Tech〜AIによるスポーツ革命〜
+- [テニスのフォームの可視化](https://speakerdeck.com/hampen2929/tennis-form-visualization)
 
-- 2019年12月19日
-
-AIの進歩とテニスの未来
-
-スポーツのためのAIを真剣に考える〜スポーツテックの行方〜
-
-2020年1月17日: 機械学習×テニス
-
-株式会社ABEJA様 社内勉強会
-
-2020年1月18日: テニスのフォーム類似度算出〜私のフォアハンドはどの選手と似てる？〜
-
-NGK2020S
-
-2020年1月19日: pyvino~Python implementation of OpenVINO~
-
-第56回　コンピュータビジョン勉強会＠関東
-
-2020年2月16日: テニスのフォームの可視化
-
-Sports Analyst Meetup #6
-
-2020年3月7日: テニスのスイング検出と類似度算出モデル
-
-法政大学特別講義
-
-
-HP：http://hampen2929.com
+- [テニスのスイング検出と類似度算出モデル]
 
 ## Myself
 Name：Hampen([@hampen2929](https://twitter.com/hampen2929))
