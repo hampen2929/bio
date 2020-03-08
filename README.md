@@ -13,6 +13,8 @@
 # 興味
 - 機械学習
 - テニス
+- 画像処理
+- 動画分析
 
 # 個人研究開発
 
@@ -49,12 +51,3 @@
 
 # 連絡先
 - yuya.mochimaru.ym@gmail.com
-
-# Myself
-Name：Hampen([@hampen2929](https://twitter.com/hampen2929))
-
-Job：Data analysis
-
-Belonging：IT consulting company
-
-Interest：Reinforcement learning
