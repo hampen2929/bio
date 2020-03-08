@@ -22,17 +22,17 @@
 
 - [スポーツ格差解消を目的としたテニス上達のためのAIコーチングアプリケーションの考案](https://speakerdeck.com/hampen2929/ai-coaching-application)
 
-- [AIの進歩とテニスの未来]
+- AIの進歩とテニスの未来
 
 - [機械学習×テニス](https://speakerdeck.com/hampen2929/machine-learning-x-tennis)
 
-- [テニスのフォーム類似度算出〜私のフォアハンドはどの選手と似てる？〜]
+- テニスのフォーム類似度算出〜私のフォアハンドはどの選手と似てる？〜
 
-- [pyvino~Python implementation of OpenVINO~](https://speakerdeck.com/hampen2929/pyvino-python-implementation-of-openvino)
+- [pyvino ~ Python implementation of OpenVINO ~](https://speakerdeck.com/hampen2929/pyvino-python-implementation-of-openvino)
 
 - [テニスのフォームの可視化](https://speakerdeck.com/hampen2929/tennis-form-visualization)
 
-- [テニスのスイング検出と類似度算出モデル]
+- テニスのスイング検出と類似度算出モデル
 
 ## Myself
 Name：Hampen([@hampen2929](https://twitter.com/hampen2929))
