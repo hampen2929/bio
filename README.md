@@ -34,6 +34,9 @@
 
 - テニスのスイング検出と類似度算出モデル
 
+## 連絡先
+- yuya.mochimaru.ym@gmail.com
+
 ## Myself
 Name：Hampen([@hampen2929](https://twitter.com/hampen2929))
 
