@@ -16,9 +16,7 @@
 
 ## 登壇
 
-- 2019年9月13日
-
-姿勢推定とLightGBMを用いたテニススイング認識
+- 姿勢推定とLightGBMを用いたテニススイング認識(https://speakerdeck.com/hampen2929/tennis-swing-recognition-based-on-pose-estimation-and-lightgbm)
 
 Data Gateway Talk vol.3
 
