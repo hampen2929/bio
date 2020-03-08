@@ -22,11 +22,9 @@
 - テニスの試合映像からの人の位置と姿勢、ボールの位置、コートの位置の検出
 ![test2](https://user-images.githubusercontent.com/34574033/76155579-51aff800-6131-11ea-8250-94cb1495b09b.gif)
 
-- pyvino
-https://github.com/hampen2929/pyvino
+- [pyvino](https://github.com/hampen2929/pyvino)
 
-- テニスに関しての文献調査
-https://github.com/hampen2929/survey_on_tennis_tech
+- [テニスに関しての文献調査](https://github.com/hampen2929/survey_on_tennis_tech)
 
 # 登壇
 
