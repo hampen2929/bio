@@ -68,7 +68,7 @@
 
 # Stats
 
-https://github-readme-stats.vercel.app/api?username=hampen2929
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hampen2929)
 
 # 連絡先
 - [Twitter(reccomended)](https://twitter.com/hampen2929)
