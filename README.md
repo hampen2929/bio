@@ -61,6 +61,6 @@
 - [機械学習の実装から考えるオブジェクト指向](https://speakerdeck.com/hampen2929/oop-for-ml)
 
 # 連絡先
-- [Twitter](https://twitter.com/hampen2929)
+- [Twitter(reccomended)](https://twitter.com/hampen2929)
 - [LinkedIn](https://www.linkedin.com/in/yuya-mochimaru-hampen2929/)
-- [Mail](yuya.mochimaru.ym@gmail.com)
+- yuya.mochimaru.ym@gmail.com
