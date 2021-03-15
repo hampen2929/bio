@@ -38,7 +38,7 @@ Linux、git、Docker
 
 ## 外部プロジェクト
 
-- [第2期AIフロンティアプログラム テニスの上達を目的としたテニス分析AIの開発](https://www.nedo.go.jp/events/IT_100062.html)
+- [第2期AIフロンティアプログラム(テニスの上達を目的としたテニス分析AIの開発)](https://www.nedo.go.jp/events/IT_100062.html)
 
 
 ![tennis_info_extract](https://user-images.githubusercontent.com/34574033/111123337-8e1efb00-85b2-11eb-8f8a-397e19f37a71.gif)
@@ -51,19 +51,9 @@ Linux、git、Docker
 
 - [フォームの類似度](https://speakerdeck.com/hampen2929/feature-vector-calculation-of-tennis-swing-using-gaussian-process-regression-and-dissimilarity-calculation-by-dtw-distance)
 
-- [スポーツ格差解消を目的としたテニス上達のためのAIコーチングアプリケーションの考案](https://speakerdeck.com/hampen2929/ai-coaching-application)
-
-- AIの進歩とテニスの未来
-
-- [機械学習×テニス](https://speakerdeck.com/hampen2929/machine-learning-x-tennis)
-
-- テニスのフォーム類似度算出〜私のフォアハンドはどの選手と似てる？〜
-
 - [pyvino ~ Python implementation of OpenVINO ~](https://speakerdeck.com/hampen2929/pyvino-python-implementation-of-openvino)
 
 - [テニスのフォームの可視化](https://speakerdeck.com/hampen2929/tennis-form-visualization)
-
-- [テニスのスイング検出と類似度算出モデル](http://www.hosei-shinri.jp/schedule/2020/03/post-168.php)
 
 - [機械学習の実装から考えるオブジェクト指向](https://speakerdeck.com/hampen2929/oop-for-ml)
 
