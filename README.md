@@ -54,7 +54,7 @@ Linux、Git、Docker
 
 - [姿勢推定とLightGBMを用いたテニススイング認識](https://speakerdeck.com/hampen2929/tennis-swing-recognition-based-on-pose-estimation-and-lightgbm)
 
-- [フォームの類似度](https://speakerdeck.com/hampen2929/feature-vector-calculation-of-tennis-swing-using-gaussian-process-regression-and-dissimilarity-calculation-by-dtw-distance)
+- [テニスのフォーム類似度算出 〜私のフォアハンドはどの選⼿と似てる︖〜](https://speakerdeck.com/hampen2929/feature-vector-calculation-of-tennis-swing-using-gaussian-process-regression-and-dissimilarity-calculation-by-dtw-distance)
 
 - [pyvino ~ Python implementation of OpenVINO ~](https://speakerdeck.com/hampen2929/pyvino-python-implementation-of-openvino)
 
