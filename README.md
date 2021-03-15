@@ -51,7 +51,7 @@ Linux、Git、Docker
 
 ## 特許
 
-[画像処理装置、画像処理方法、及びプログラム](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6768913/EEB5AA3B96C7368DF792E631F6239F964CC04F8613DFE956E681A9541EFB981B/15/ja)
+- [画像処理装置、画像処理方法、及びプログラム](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6768913/EEB5AA3B96C7368DF792E631F6239F964CC04F8613DFE956E681A9541EFB981B/15/ja)
 
 ## 登壇
 
