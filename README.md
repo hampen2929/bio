@@ -24,7 +24,7 @@
 Python、SQL
 
 ## よく使うPythonのライブラリ
-numpy, pandas, matplotlib, OpenCV, PyTorch, streamlit
+numpy, pandas, matplotlib, OpenCV, PyTorch, boto3, streamlit
 
 ## 画像認識
 画像分類、物体検出、トラッキング、姿勢推定・動作検出、Reid、超解像
