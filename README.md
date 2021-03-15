@@ -23,7 +23,7 @@
 ## プログラミング言語
 Python、SQL
 
-## よく使うPythonのライブラリ
+## Pythonのライブラリ
 numpy, pandas, matplotlib, OpenCV, PyTorch, boto3, streamlit
 
 ## 画像認識
