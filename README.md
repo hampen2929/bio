@@ -30,7 +30,7 @@ Python、SQL
 EC2、S3、DynamoDB、RSS、SQS、SNS、Kinesis video streams
 
 ## その他
-Linux、git、Docker
+Linux、Git、Docker
 
 # 活動
 
