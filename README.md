@@ -37,10 +37,6 @@ Linux、Git、Docker
 
 # 実績
 
-## 執筆
-
-- [GANディープラーニング 実装ハンドブック(4章 超解像(ESRGAN))](https://www.shuwasystem.co.jp/book/9784798062297.html)
-
 ## 外部プロジェクト
 
 - [第2期AIフロンティアプログラム(テニスの上達を目的としたテニス分析AIの開発)](https://www.nedo.go.jp/events/IT_100062.html)
@@ -48,6 +44,10 @@ Linux、Git、Docker
 ![tennis_info_extract](https://user-images.githubusercontent.com/34574033/111123337-8e1efb00-85b2-11eb-8f8a-397e19f37a71.gif)
 
 ![tennis_ai_app](https://user-images.githubusercontent.com/34574033/111123470-b60e5e80-85b2-11eb-9ba9-45aba701f369.gif)
+
+## 執筆
+
+- [GANディープラーニング 実装ハンドブック(4章 超解像(ESRGAN))](https://www.shuwasystem.co.jp/book/9784798062297.html)
 
 ## 特許
 
