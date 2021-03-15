@@ -32,8 +32,11 @@ numpy, pandas, matplotlib, OpenCV, PyTorch, boto3, streamlit
 ## AWS
 EC2、S3、DynamoDB、RDS、SQS、SNS、Kinesis video streams
 
-## その他
+## その他IT技術
 Linux、Git、Docker
+
+## 英語
+TOEIC: 815
 
 # 実績
 
