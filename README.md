@@ -38,7 +38,7 @@ Linux、git、Docker
 
 ## 外部プロジェクト
 
--[第2期AIフロンティアプログラム](https://www.nedo.go.jp/events/IT_100062.html)
+- [第2期AIフロンティアプログラム](https://www.nedo.go.jp/events/IT_100062.html)
 
 ## 登壇
 
