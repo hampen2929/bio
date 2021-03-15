@@ -30,7 +30,17 @@ EC2、S3、DynamoDB、SQS、SNS、Kinesis video streams
 ## その他
 Linux、git、Docker
 
-# 登壇
+# 活動
+
+## 執筆
+
+- [GANディープラーニング 実装ハンドブック(4章 超解像(ESRGAN))](https://www.shuwasystem.co.jp/book/9784798062297.html)
+
+## 外部プロジェクト
+
+-[第2期AIフロンティアプログラム](https://www.nedo.go.jp/events/IT_100062.html)
+
+## 登壇
 
 - [姿勢推定とLightGBMを用いたテニススイング認識](https://speakerdeck.com/hampen2929/tennis-swing-recognition-based-on-pose-estimation-and-lightgbm)
 
