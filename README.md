@@ -37,7 +37,7 @@ Linux、Git、Docker
 
 # 実績
 
-## 外部プロジェクト
+## プロジェクト
 
 - [第2期AIフロンティアプログラム(テニスの上達を目的としたテニス分析AIの開発)](https://www.nedo.go.jp/events/IT_100062.html)
 
