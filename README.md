@@ -27,7 +27,7 @@ Python、SQL
 画像分類、物体検出、トラッキング、姿勢推定・動作検出、Reid、超解像
 
 ## AWS
-EC2、S3、DynamoDB、RSS、SQS、SNS、Kinesis video streams
+EC2、S3、DynamoDB、RDS、SQS、SNS、Kinesis video streams
 
 ## その他
 Linux、Git、Docker
