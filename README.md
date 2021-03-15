@@ -86,6 +86,10 @@ Linux、Git、Docker
 
 ![test2](https://user-images.githubusercontent.com/34574033/76155579-51aff800-6131-11ea-8250-94cb1495b09b.gif)
 
+- マリオテニスの強化学習(https://github.com/hampen2929/MarioTennisAI)
+
+![test4](https://user-images.githubusercontent.com/34574033/54477224-3cb7c600-4849-11e9-8ce6-5398fbefddf7.gif)
+
 - [pyvino](https://github.com/hampen2929/pyvino)
 
 ![image](https://user-images.githubusercontent.com/34574033/63226303-36bc7b80-c213-11e9-8881-74241128e1d3.png)
