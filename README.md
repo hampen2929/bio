@@ -60,6 +60,8 @@ Linux、Git、Docker
 
 - [テニスのフォームの可視化](https://speakerdeck.com/hampen2929/tennis-form-visualization)
 
+- [特別講義：テニスのスイング検出と類似度算出モデル](http://www.hosei-shinri.jp/schedule/2020/03/post-168.php)
+
 - [機械学習の実装から考えるオブジェクト指向](https://speakerdeck.com/hampen2929/oop-for-ml)
 
 # 趣味
