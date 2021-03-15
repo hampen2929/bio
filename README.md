@@ -38,9 +38,12 @@ Linux、git、Docker
 
 ## 外部プロジェクト
 
-- [第2期AIフロンティアプログラム](https://www.nedo.go.jp/events/IT_100062.html)
-https://user-images.githubusercontent.com/34574033/111122629-a17d9680-85b1-11eb-8a68-36ba88fd96f6.mp4
+- [第2期AIフロンティアプログラム テニスの上達を目的としたテニス分析AIの開発](https://www.nedo.go.jp/events/IT_100062.html)
 
+
+![tennis_info_extract](https://user-images.githubusercontent.com/34574033/111123337-8e1efb00-85b2-11eb-8f8a-397e19f37a71.gif)
+
+![tennis_ai_app](https://user-images.githubusercontent.com/34574033/111123470-b60e5e80-85b2-11eb-9ba9-45aba701f369.gif)
 
 ## 登壇
 
