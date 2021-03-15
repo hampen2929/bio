@@ -32,7 +32,7 @@ EC2、S3、DynamoDB、RDS、SQS、SNS、Kinesis video streams
 ## その他
 Linux、Git、Docker
 
-# 活動
+# 実績
 
 ## 執筆
 
@@ -42,10 +42,13 @@ Linux、Git、Docker
 
 - [第2期AIフロンティアプログラム(テニスの上達を目的としたテニス分析AIの開発)](https://www.nedo.go.jp/events/IT_100062.html)
 
-
 ![tennis_info_extract](https://user-images.githubusercontent.com/34574033/111123337-8e1efb00-85b2-11eb-8f8a-397e19f37a71.gif)
 
 ![tennis_ai_app](https://user-images.githubusercontent.com/34574033/111123470-b60e5e80-85b2-11eb-9ba9-45aba701f369.gif)
+
+## 特許
+
+[画像処理装置、画像処理方法、及びプログラム](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6768913/EEB5AA3B96C7368DF792E631F6239F964CC04F8613DFE956E681A9541EFB981B/15/ja)
 
 ## 登壇
 
