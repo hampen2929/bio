@@ -48,14 +48,6 @@ TOEIC: 815
 
 ![tennis_ai_app](https://user-images.githubusercontent.com/34574033/111123470-b60e5e80-85b2-11eb-9ba9-45aba701f369.gif)
 
-## 執筆
-
-- [GANディープラーニング 実装ハンドブック(4章 超解像(ESRGAN))](https://www.shuwasystem.co.jp/book/9784798062297.html)
-
-## 特許
-
-- [画像処理装置、画像処理方法、及びプログラム](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6768913/EEB5AA3B96C7368DF792E631F6239F964CC04F8613DFE956E681A9541EFB981B/15/ja)
-
 ## 登壇
 
 - [姿勢推定とLightGBMを用いたテニススイング認識](https://speakerdeck.com/hampen2929/tennis-swing-recognition-based-on-pose-estimation-and-lightgbm)
